@@ -29,8 +29,8 @@ To perform rapid statistical calculations and time series analysis, specifically
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/quick-calculation-using-r.git
-   cd quick-calculation-using-r
+   git clone https://github.com/Tejaslohar1999/Upwork-Project-1.git
+   cd Upwork-Project-1
    ```
 
 2. Install required R packages by running the following command in your R environment:
