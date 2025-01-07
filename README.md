@@ -49,6 +49,3 @@ The project provides a precise calculation of the weighted moving average and ac
 
 ## Contribution
 Contributions are welcome! Please submit a pull request for any updates or improvements.
-
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
